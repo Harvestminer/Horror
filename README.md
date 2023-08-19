@@ -5,6 +5,11 @@ The following README was copied from [this git project.](https://raw.githubuserc
 
 We don't necessarily have to follow anything this document says, but it's a good read for beginning the project.
 
+## Unity Version
+The unity project will be **2022.3.7f1**. It's a pretty recent version with long time support that I'm most familiar with. Please install it using [Unity Hub.](https://unity.com/download) Using Unity Hub to manage unity versions and projects is way easier and most recommended.
+
+Please install it how it comes. We can always add support for other platforms later if necessary.
+
 <a name="toc"></a>
 ## Table of Contents
 > 1. [Introduction](#introduction)
